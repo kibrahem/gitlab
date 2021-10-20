@@ -1,0 +1,9 @@
+git checkout -b "name"
+- changes 
+- git add . 
+git commit -m "commit"
+git push origin name-branch
+---------------------
+- in new date
+git pull origin master 
+---------------------
