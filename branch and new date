@@ -5,5 +5,5 @@ git commit -m "commit"
 git push origin name-branch
 ---------------------
 - in new date
-git pull origin master 
+git pull origin base-branch 
 ---------------------
